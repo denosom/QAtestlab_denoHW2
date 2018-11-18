@@ -51,7 +51,7 @@ public class ScriptB {
             {
             System.out.println("It's OK, we on right page");}
             else {
-            System.out.println("Something gone wrong, titels not equal");}
+            System.out.println("Something gone wrong, titles not equal");}
         }
 
         // end of test
